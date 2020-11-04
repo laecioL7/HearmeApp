@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <!--<CheckBoxPreference
+        android:defaultValue="false"
+        android:key="manterconectado"
+        android:summary="@string/manterDesc"
+        android:title="@string/manter" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="inativar"
+        android:summary="@string/ficarInvisivelDesc"
+        android:title="@string/ficarInvisivel" />
+
+    <EditTextPreference
+        android:defaultValue=""
+        android:inputType="textCapSentences"
+        android:key="cidade"
+        android:summary="@string/cidadeSumary"
+        android:title="@string/cidade"/>
+-->
+</PreferenceScreen>
